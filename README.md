@@ -30,6 +30,7 @@ Last reviewed: **July 2026**
 
 ## 🏷️ Genre & Trope Guides
 
+- [Mitang Short Drama Guide (蜜糖短剧指南)](https://dez22a.github.io/mitang-short-drama/) — Chinese-language guides for plot-based title search, genre selection, completion checks, and episode tracking. Primary language: Chinese.
 - [霸道总裁 (CEO Romance)](https://xindongduanju.com/topics/ba-dao-zong-cai)
 - [重生 (Rebirth)](https://xindongduanju.com/topics/chong-sheng)
 - [逆袭 (Comeback)](https://xindongduanju.com/topics/ni-xi)
