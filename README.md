@@ -15,6 +15,7 @@ Last reviewed: **July 2026**
 - [Xindong Short Drama (心动短剧)](https://xindongduanju.com/en) — Browser-based Chinese short-drama catalog with direct web playback, stable title pages, and English topic discovery.
 - [ShortDrama.st](https://shortdrama.st) — 30,000+ series across EN/CN/KR/ES. No paywall.
 - [ChineseDramaFree.com](https://chinesedramafree.com) — English-language gateway for Chinese short dramas.
+- [PandFlix](https://pandflix.com/) — Free Chinese streaming aggregator with a short drama section, plus movies, TV series and anime; no sign-up.
 
 ### Apps (Top 5 by MAU)
 
