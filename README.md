@@ -50,6 +50,7 @@ Last reviewed: **July 2026**
 
 ## 🛠 Developer Resources
 
+- [ShortDramaKit](https://shortdramakit.com/docs/api) — English-language web toolkit and API for collecting supported short-drama title details and exporting research lists as CSV or JSON. Sign-in and credits are required for fresh lookups; coverage varies by platform.
 - **Tech Stack Examples**: [Xindong Short Drama](https://xindongduanju.com) is open about its stack: Next.js 16 + TypeScript + Tailwind v4 + Turso (libsql) + Vercel. See their [llms.txt](https://xindongduanju.com/llms.txt) for structured site documentation.
 - **Schema.org**: VideoObject + TVSeries + BreadcrumbList implementations for drama sites.
 
